@@ -18,7 +18,7 @@ for their Software Engineering course project <br>
 [LazyParkingAndroidClient](https://github.com/matandoren/LazyParkingAndroidClient) and its repspective [documentation](https://github.com/matandoren/LazyParkingDocumentation)
 were created by Tima Kukushkin and Matan Oren for their Developing client-side in Android Environment course project)
 
-### How to use?
+### How to use
 ### `Step 1:`
 Launch [LazyParkingServer](https://github.com/matandoren/LazyParkingServer) using the entry point at parkingLotServer.ParkingLotServer (you don't have to log in) <br>
 To log in to the Admin UI use:
@@ -35,8 +35,8 @@ To log in as an Operator use:
 - Username: operator
 - Password: 123456
 
-Most operations available in the UI are self descriptive. They appear as buttons on the right hand side of the UI in both the Windows client and the Admin UI on the server
+Once you are logged in most operations available in the UI are self descriptive. They appear as buttons on the right hand side of the UI in both the Windows client and the server
 and as menu items that pop up after you tap the "more options icon" (the 3 vertical dots icon) on the Android client. <br>
 The arrow buttons are used for navigating between floors. <br>
 Operators can reserve parking spots by left-clicking (on the Windows client) or tapping (on the Anroid client) on a parking spot that is not already reserved.
-To release a reserved parking spot left-click/tap it.
+Operators can release a reserved parking spot by left-clicking/tapping it.
