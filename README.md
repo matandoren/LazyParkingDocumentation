@@ -7,9 +7,6 @@ Such parking lot is intended to serve a particular group of people. Some example
 - A parking lot of a factory that serves only the people employed at that factory
 - A parking lot of a college that serves only the students and staff of that college
 
-The client provides drivers a visual representation of the current state of the parking lot which allows them to easily find an empty parking spot <br>
-
-
 `*` Since this parking lot is theoretical, the operation of the card reader, gate, sensors and drivers using the parking lot is simulated in the server using mockup modules
 
 ([LazyParkingServer](https://github.com/matandoren/LazyParkingServer), [LazyParkingWindowsClient](https://github.com/matandoren/LazyParkingWindowsClient) and their respective
@@ -40,3 +37,15 @@ and as menu items that pop up after you tap the "more options icon" (the 3 verti
 The arrow buttons are used for navigating between floors. <br>
 Operators can reserve parking spots by left-clicking (on the Windows client) or tapping (on the Anroid client) on a parking spot that is not already reserved.
 Operators can release a reserved parking spot by left-clicking/tapping it.
+
+## Screenshots
+<img src="https://github.com/matandoren/LazyParkingDocumentation/tree/main/LazyParkingScreenshots/adminUI.png"  width="300">  <br>
+LazyParkingServer: Admin UI <br>
+<img src="https://github.com/matandoren/LazyParkingDocumentation/tree/main/LazyParkingScreenshots/androidLogin.png"  width="300">  <br>
+LazyParkingAndroidClient: Login <br>
+<img src="https://github.com/matandoren/LazyParkingDocumentation/tree/main/LazyParkingScreenshots/androidDriverUI.png"  width="300">  <br>
+LazyParkingAndroidClient: Driver UI <br>
+<img src="https://github.com/matandoren/LazyParkingDocumentation/tree/main/LazyParkingScreenshots/androidOperatorUI.png"  width="300">  <br>
+LazyParkingAndroidClient: Operator UI <br>
+<img src="https://github.com/matandoren/LazyParkingDocumentation/tree/main/LazyParkingScreenshots/windowsOperatorUI.png"  width="300">  <br>
+LazyParkingWindowsClient: Operator UI <br>
