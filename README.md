@@ -38,14 +38,18 @@ The arrow buttons are used for navigating between floors. <br>
 Operators can reserve parking spots by left-clicking (on the Windows client) or tapping (on the Anroid client) on a parking spot that is not already reserved.
 Operators can release a reserved parking spot by left-clicking/tapping it.
 
-## Screenshots
-<img src="https://github.com/matandoren/LazyParkingDocumentation/tree/main/LazyParkingScreenshots/adminUI.png"  width="300">  <br>
+### Screenshots
+![alt text](https://github.com/matandoren/LazyParkingDocumentation/blob/main/LazyParkingScreenshots/adminUI.png?raw=true)  <br>
 LazyParkingServer: Admin UI <br>
-<img src="https://github.com/matandoren/LazyParkingDocumentation/tree/main/LazyParkingScreenshots/androidLogin.png"  width="300">  <br>
+
+![alt text](https://github.com/matandoren/LazyParkingDocumentation/blob/main/LazyParkingScreenshots/androidLogin.png?raw=true)  <br>
 LazyParkingAndroidClient: Login <br>
-<img src="https://github.com/matandoren/LazyParkingDocumentation/tree/main/LazyParkingScreenshots/androidDriverUI.png"  width="300">  <br>
+
+![alt text](https://github.com/matandoren/LazyParkingDocumentation/blob/main/LazyParkingScreenshots/androidDriverUI.png?raw=true)  <br>
 LazyParkingAndroidClient: Driver UI <br>
-<img src="https://github.com/matandoren/LazyParkingDocumentation/tree/main/LazyParkingScreenshots/androidOperatorUI.png"  width="300">  <br>
+
+![alt text](https://github.com/matandoren/LazyParkingDocumentation/blob/main/LazyParkingScreenshots/androidOperatorUI.png?raw=true)  <br>
 LazyParkingAndroidClient: Operator UI <br>
-<img src="https://github.com/matandoren/LazyParkingDocumentation/tree/main/LazyParkingScreenshots/windowsOperatorUI.png"  width="300">  <br>
+
+![alt text](https://github.com/matandoren/LazyParkingDocumentation/blob/main/LazyParkingScreenshots/windowsOperatorUI.png?raw=true)  <br>
 LazyParkingWindowsClient: Operator UI <br>
