@@ -15,7 +15,7 @@ for their Software Engineering course project <br>
 [LazyParkingAndroidClient](https://github.com/matandoren/LazyParkingAndroidClient) and its repspective [documentation](https://github.com/matandoren/LazyParkingDocumentation)
 were created by Tima Kukushkin and Matan Oren for their Developing client-side in Android Environment course project) <br>
 ([LazyParkingWindowsCPPClientUI](https://github.com/matandoren/LazyParkingWindowsCPPClientUI), [LazyParkingWindowsCPPClientBL](https://github.com/matandoren/LazyParkingWindowsCPPClientBL) and their respective
-[documentation](https://github.com/matandoren/LazyParkingDocumentation) were created by Matan Oren <br>
+[documentation](https://github.com/matandoren/LazyParkingDocumentation) were created by Matan Oren) <br>
 
 ### How to use
 ### `Step 1:`
