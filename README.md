@@ -13,7 +13,9 @@ Such parking lot is intended to serve a particular group of people. Some example
 [documentation](https://github.com/matandoren/LazyParkingDocumentation) were created by Ohad Hever, Tima Kukushkin, Matan Oren and Gilad Rozin
 for their Software Engineering course project <br>
 [LazyParkingAndroidClient](https://github.com/matandoren/LazyParkingAndroidClient) and its repspective [documentation](https://github.com/matandoren/LazyParkingDocumentation)
-were created by Tima Kukushkin and Matan Oren for their Developing client-side in Android Environment course project)
+were created by Tima Kukushkin and Matan Oren for their Developing client-side in Android Environment course project) <br>
+([LazyParkingWindowsCPPClientUI](https://github.com/matandoren/LazyParkingWindowsCPPClientUI), [LazyParkingWindowsCPPClientBL](https://github.com/matandoren/LazyParkingWindowsCPPClientBL) and their respective
+[documentation](https://github.com/matandoren/LazyParkingDocumentation) were created by Matan Oren <br>
 
 ### How to use
 ### `Step 1:`
@@ -23,7 +25,7 @@ To log in to the Admin UI use:
 - Password: 123456
 
 ### `Step 2:`
-Launch a client ([LazyParkingWindowsClient](https://github.com/matandoren/LazyParkingWindowsClient), [LazyParkingAndroidClient](https://github.com/matandoren/LazyParkingAndroidClient)) <br>
+Launch a client ([LazyParkingWindowsClient](https://github.com/matandoren/LazyParkingWindowsClient), [LazyParkingAndroidClient](https://github.com/matandoren/LazyParkingAndroidClient), [LazyParkingWindowsCPPClientUI](https://github.com/matandoren/LazyParkingWindowsCPPClientUI)) <br>
 To log in as a Driver use:
 - Username: driver
 - Password: 123456
@@ -53,3 +55,9 @@ LazyParkingAndroidClient: Operator UI <br>
 
 ![alt text](https://github.com/matandoren/LazyParkingDocumentation/blob/main/LazyParkingScreenshots/windowsOperatorUI.png?raw=true)  <br>
 LazyParkingWindowsClient: Operator UI <br>
+
+![alt text](https://github.com/matandoren/LazyParkingDocumentation/blob/main/LazyParkingScreenshots/windowsNativeLogin.png?raw=true)  <br>
+LazyParkingWindowsCPPClient: Login <br>
+
+![alt text](https://github.com/matandoren/LazyParkingDocumentation/blob/main/LazyParkingScreenshots/windowsNativeOperatorUI.png?raw=true)  <br>
+LazyParkingWindowsCPPClient: Operator UI <br>
